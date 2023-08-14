@@ -1,0 +1,40 @@
+@media (min-width: 300px) {
+  #inicio {
+    font-size: 57px;
+    font-family: "Cabin","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  #inicio {
+    font-size: 96px;
+  }
+}
+
+@media (min-width: 300px) {
+  p {
+    margin-bottom: 29px;
+    font-family: FontAwesome;
+  }
+}
+
+@media (min-width: 992px) {
+  p {
+    margin-bottom: 31px;
+    font-family: FontAwesome;
+  }
+}
+
+@media (min-width: 300px) {
+  #significado {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 992px) {
+  #significado {
+    font-size: 20px;
+  }
+}
+
